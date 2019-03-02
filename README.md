@@ -1,2 +1,3 @@
 # hello-world
-repo for learning GitHub
+
+Hello World repo
